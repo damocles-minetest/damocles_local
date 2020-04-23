@@ -1,0 +1,3 @@
+[submodule "worldmods"]
+	path = worldmods
+	url = git@github.com:damocles-minetest/damocles-mods.git
